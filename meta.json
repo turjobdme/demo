@@ -34,4 +34,4 @@
       { id: "api-keys", label: "Authentication & Tokens" },
     ],
   },
-];
+]
