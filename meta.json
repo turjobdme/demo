@@ -14,9 +14,9 @@
     links: [
       { id: "prelocss-syntax", label: "Grouped Utility Syntax" },
       { id: "prelocss-compiler", label: "AST Compiler Config" },
-      { id: "vscode-plugin", label: "VS Code Extension Setup" },
+      { id: "vscode-plugin", label: "VS Code Extension Setup" }
     ]
-  }
+  },
   {
     title: "LEM (Local Execution Manager)",
     slug: "lem",
@@ -24,7 +24,7 @@
       { id: "lem-installation", label: "CLI Installation" },
       { id: "lem-commands", label: "Command Reference" },
       { id: "process-isolation", label: "Process Isolation & Security" }
-    ],
+    ]
   },
   {
     title: "Zeroplus Infrastructure",
