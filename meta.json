@@ -4,15 +4,15 @@
     "slug": "getting-started",
     "links": [
       {
-        "id": "overview",
+        "slug": "overview",
         "label": "Overview & Ecosystem"
       },
       {
-        "id": "quickstart",
+        "slug": "quickstart",
         "label": "Quickstart Guide"
       },
       {
-        "id": "architecture",
+        "slug": "architecture",
         "label": "Zero-Trust Architecture"
       }
     ]
@@ -22,15 +22,15 @@
     "slug": "prelocss",
     "links": [
       {
-        "id": "prelocss-syntax",
+        "slug": "prelocss-syntax",
         "label": "Grouped Utility Syntax"
       },
       {
-        "id": "prelocss-compiler",
+        "slug": "prelocss-compiler",
         "label": "AST Compiler Config"
       },
       {
-        "id": "vscode-plugin",
+        "slug": "vscode-plugin",
         "label": "VS Code Extension Setup"
       }
     ]
@@ -40,15 +40,15 @@
     "slug": "lem",
     "links": [
       {
-        "id": "lem-installation",
+        "slug": "lem-installation",
         "label": "CLI Installation"
       },
       {
-        "id": "lem-commands",
+        "slug": "lem-commands",
         "label": "Command Reference"
       },
       {
-        "id": "process-isolation",
+        "slug": "process-isolation",
         "label": "Process Isolation & Security"
       }
     ]
@@ -58,11 +58,11 @@
     "slug": "infrastructure",
     "links": [
       {
-        "id": "edge-nodes",
+        "slug": "edge-nodes",
         "label": "Deploying Edge Server Nodes"
       },
       {
-        "id": "api-keys",
+        "slug": "api-keys",
         "label": "Authentication & Tokens"
       }
     ]
