@@ -33,5 +33,5 @@
       { id: "edge-nodes", label: "Deploying Edge Server Nodes" },
       { id: "api-keys", label: "Authentication & Tokens" }
     ]
-  },
+  }
 ]
