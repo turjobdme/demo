@@ -5,8 +5,8 @@
     links: [
       { id: "overview", label: "Overview & Ecosystem" },
       { id: "quickstart", label: "Quickstart Guide" },
-      { id: "architecture", label: "Zero-Trust Architecture" },
-    ],
+      { id: "architecture", label: "Zero-Trust Architecture" }
+    ]
   },
   {
     title: "PreloCSS Utility Engine",
@@ -15,15 +15,15 @@
       { id: "prelocss-syntax", label: "Grouped Utility Syntax" },
       { id: "prelocss-compiler", label: "AST Compiler Config" },
       { id: "vscode-plugin", label: "VS Code Extension Setup" },
-    ],
-  },
+    ]
+  }
   {
     title: "LEM (Local Execution Manager)",
     slug: "lem",
     links: [
       { id: "lem-installation", label: "CLI Installation" },
       { id: "lem-commands", label: "Command Reference" },
-      { id: "process-isolation", label: "Process Isolation & Security" },
+      { id: "process-isolation", label: "Process Isolation & Security" }
     ],
   },
   {
@@ -31,7 +31,7 @@
     slug: "infrastructure",
     links: [
       { id: "edge-nodes", label: "Deploying Edge Server Nodes" },
-      { id: "api-keys", label: "Authentication & Tokens" },
-    ],
+      { id: "api-keys", label: "Authentication & Tokens" }
+    ]
   },
 ]
